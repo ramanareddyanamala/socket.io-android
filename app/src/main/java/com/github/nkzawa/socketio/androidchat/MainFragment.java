@@ -420,7 +420,6 @@ public class MainFragment extends Fragment {
                     //mydataBack.bringBackString(withoutLastCharacter);
                     Log.e("array",""+ar);
                    // Log.e("arrayobj",""+ar[0]);
-                    //Read more: http://javarevisited.blogspot.com/2016/03/how-to-remove-first-and-last-character-from-String-in-java-example.html#ixzz5CFT1MqqE
                     UserActivity.textView.setText(users);
                     //addMessage(username, message);
                 }
